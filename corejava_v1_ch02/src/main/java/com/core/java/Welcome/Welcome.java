@@ -1,4 +1,4 @@
-package com.core.java.welcome;
+package com.core.java.Welcome;
 
 /**
  * This program displays a greeting from the authors

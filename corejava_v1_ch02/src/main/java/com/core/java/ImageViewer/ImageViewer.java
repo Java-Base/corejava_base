@@ -1,4 +1,4 @@
-package com.core.java.imageviewer;
+package com.core.java.ImageViewer;
 
 import java.awt.EventQueue;
 import java.awt.event.ActionEvent;

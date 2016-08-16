@@ -1,4 +1,4 @@
-package com.core.java.firstsample;
+package com.core.java.FirstSample;
 
 /**
  * This is the first sample program in Core Java Chapter 3

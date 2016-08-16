@@ -1,4 +1,4 @@
-package com.core.java.welcomeapplet;
+package com.core.java.WelcomApplet;
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
