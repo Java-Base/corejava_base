@@ -1,7 +1,10 @@
 # file
-.classpath
-.project
+*.classpath
+*.project
+*.iml
 
-# directory
-.settings
-target
+# directory/
+*.settings/
+*target/
+*untitled/
+*.idea/

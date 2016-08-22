@@ -5,11 +5,12 @@ import java.util.Scanner;
 /**
  * This program demonstrates console input.
  *
- * @author 	Lian
- * @time	2016年8月16日
+ * @author Lian
+ * @time 2016年8月16日
  */
 public class InputTest {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 
