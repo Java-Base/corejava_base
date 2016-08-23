@@ -3,6 +3,7 @@ package com.core.java.CalendarTest;
 import java.text.DateFormatSymbols;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
+import java.util.Locale;
 
 /**
  * This program demonstrates the use of Calendar
@@ -13,15 +14,19 @@ import java.util.GregorianCalendar;
 public class CalendarTest {
 
 	public static void main(String[] args) {
+//		Locale.setDefault(Locale.CHINA);
+
 		// construct calendar as current date
 		GregorianCalendar calendar = new GregorianCalendar();
 
+		// get current date and month
 		int today = calendar.get(Calendar.DAY_OF_MONTH);
 		int month = calendar.get(Calendar.MONTH);
 
 		// set calendar to start date of month
 		calendar.set(Calendar.DAY_OF_MONTH, 1);
 
+		// get the week of the start date of month
 		int weekday = calendar.get(Calendar.DAY_OF_WEEK);
 
 		// get first day of week(Sunday in the U.S.)
@@ -38,14 +43,14 @@ public class CalendarTest {
 		// print weekday names
 		String[] weekdayNames = new DateFormatSymbols().getShortWeekdays();
 		do {
-			System.out.printf("%4s", weekdayNames[weekday]);
+			System.out.printf("%4s\t", weekdayNames[weekday]);
 			calendar.add(Calendar.DAY_OF_MONTH, 1);
 			weekday = calendar.get(Calendar.DAY_OF_WEEK);
 		} while (weekday != firstDayOfWeek);
 		System.out.println();
 
 		for (int i = 0; i <= indent; i++) {
-			System.out.print("    ");
+			System.out.print("\t");
 		}
 
 		calendar.set(Calendar.DAY_OF_MONTH, 1);
@@ -56,9 +61,9 @@ public class CalendarTest {
 
 			// mark current day with *
 			if (day == today) {
-				System.out.print("*");
+				System.out.print("*\t");
 			} else {
-				System.out.print(" ");
+				System.out.print(" \t");
 			}
 
 			// advanced calendar to the next day
