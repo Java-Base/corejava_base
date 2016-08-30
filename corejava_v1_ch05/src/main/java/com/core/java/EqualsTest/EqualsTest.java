@@ -28,6 +28,7 @@ public class EqualsTest {
 		Manager carl = new Manager("Carl Cracker", 80000, 1987, 12, 15);
 		Manager boss = new Manager("Carl Cracker", 80000, 1987, 12, 15);
 		boss.setBonus(5000);
+
 		System.out.println("boss.toString(): " + boss);
 		System.out.println("carl.equals(boss): " + carl.equals(boss));
 		System.out.println("alice1.hashCode(): " + alice1.hashCode());
