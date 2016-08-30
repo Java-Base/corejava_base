@@ -1,4 +1,4 @@
-package com.core.java.EmployeeTest;
+package com.core.java.PersonTest;
 
 import java.util.Date;
 import java.util.GregorianCalendar;
@@ -7,24 +7,18 @@ import java.util.GregorianCalendar;
  * Employee Class
  *
  * @auth Lian
- * @date 16/8/23
+ * @date 16/8/30
  */
-class Employee {
+class Employee extends Person {
 
-	private String name;
 	private double salary;
 	private Date hireDay;
 
 	public Employee(String name, double salary, int year, int month, int day) {
-		this.name = name;
+		super(name);
 		this.salary = salary;
-		GregorianCalendar calendar = new GregorianCalendar(year, month - 1, day);
-		// GregorianCalendar uses 0 for January
+		GregorianCalendar calendar = new GregorianCalendar(year, month -1, day);
 		hireDay = calendar.getTime();
-	}
-
-	public String getName() {
-		return name;
 	}
 
 	public double getSalary() {
@@ -33,6 +27,11 @@ class Employee {
 
 	public Date getHireDay() {
 		return hireDay;
+	}
+
+	@Override
+	public String getDescription() {
+		return String.format("an employee with a salary of $%.2f", salary);
 	}
 
 	public void raiseSalary(double byPercent) {

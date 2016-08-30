@@ -8,7 +8,7 @@ import java.util.Random;
  * @auth Lian
  * @date 16/8/29
  */
-public class Employee {
+class Employee {
 
 	private static int nextId;
 

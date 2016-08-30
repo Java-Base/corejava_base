@@ -6,7 +6,7 @@ package com.core.java.StaticTest;
  * @auth Lian
  * @date 16/8/23
  */
-public class Employee {
+class Employee {
 
 	private String name;
 	private double salary;

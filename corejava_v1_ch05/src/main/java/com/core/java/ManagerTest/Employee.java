@@ -1,4 +1,4 @@
-package com.core.java.EmployeeTest;
+package com.core.java.ManagerTest;
 
 import java.util.Date;
 import java.util.GregorianCalendar;
@@ -7,7 +7,7 @@ import java.util.GregorianCalendar;
  * Employee Class
  *
  * @auth Lian
- * @date 16/8/23
+ * @date 16/8/30
  */
 class Employee {
 
@@ -19,8 +19,7 @@ class Employee {
 		this.name = name;
 		this.salary = salary;
 		GregorianCalendar calendar = new GregorianCalendar(year, month - 1, day);
-		// GregorianCalendar uses 0 for January
-		hireDay = calendar.getTime();
+		this.hireDay = calendar.getTime();
 	}
 
 	public String getName() {

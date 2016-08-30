@@ -6,7 +6,7 @@ package com.core.java.ParamTest;
  * @auth Lian
  * @date 16/8/29
  */
-public class Employee {
+class Employee {
 
 	private String name;
 	private double salary;
