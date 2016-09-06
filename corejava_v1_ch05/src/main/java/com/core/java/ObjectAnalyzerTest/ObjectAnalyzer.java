@@ -16,7 +16,14 @@ class ObjectAnalyzer {
 
 	private ArrayList<Object> visited = new ArrayList<Object>();
 
+	/**
+	 * The method of analyzing object
+	 *
+	 * @param obj
+	 * @return
+	 */
 	public String toString(Object obj) {
+		// obj is null
 		if (obj == null) return "null";
 
 		if (visited.contains(obj)) return "...";
@@ -24,7 +31,9 @@ class ObjectAnalyzer {
 		visited.add(obj);
 
 		Class cl = obj.getClass();
+		// obj is String
 		if (cl == String.class) return (String) obj;
+		// obj is Array
 		if (cl.isArray()) {
 			String r = cl.getComponentType() + "[]{";
 			for (int i = 0; i < Array.getLength(obj); i++) {
