@@ -1,7 +1,5 @@
 package com.core.java.EmployeeSortTest;
 
-import java.util.Comparator;
-
 /**
  * Class Employee implements Comparable
  *
