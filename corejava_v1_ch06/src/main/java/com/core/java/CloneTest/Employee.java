@@ -21,8 +21,13 @@ class Employee implements Cloneable {
 		this.hireDay = new Date();
 	}
 
-	@Override
-	protected Employee clone() throws CloneNotSupportedException {
+	/**
+	 * change the modifier from protected to public
+	 *
+	 * @return
+	 * @throws CloneNotSupportedException
+	 */
+	public Employee clone() throws CloneNotSupportedException {
 		// call Object.clone()
 		Employee cloned = (Employee) super.clone();
 
