@@ -40,7 +40,7 @@ class TalkingClock {
 	public class TimerPrinter implements ActionListener {
 
 		@Override
-		public void actionPerformed(ActionEvent e) {
+		public void actionPerformed(ActionEvent event) {
 			Date now = new Date();
 			System.out.println("At the tone, the time is " + now);
 			if (beep) {

@@ -45,10 +45,12 @@ public class ReflectionTest {
 			printConstructors(cl);
 			System.out.println();
 
-//			printMethods(cl);
+			printMethods(cl);
 			System.out.println();
 
 			printFields(cl);
+
+			System.out.println("}");
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();
 		}
