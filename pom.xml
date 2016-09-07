@@ -45,5 +45,6 @@
         <module>corejava_v1_ch04</module>
         <module>corejava_v1_ch05</module>
         <module>corejava_v1_ch06</module>
+        <module>corejava_v1_ch11</module>
     </modules>
 </project>
