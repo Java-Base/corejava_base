@@ -1,4 +1,4 @@
-package com.core.java.PairTest1;
+package com.core.java.PairTest2;
 
 /**
  * @auth Lian
