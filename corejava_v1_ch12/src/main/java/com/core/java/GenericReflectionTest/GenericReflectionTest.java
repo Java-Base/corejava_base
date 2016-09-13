@@ -34,6 +34,11 @@ public class GenericReflectionTest {
 	}
 
 
+	/**
+	 * Prints Class
+	 *
+	 * @param cl
+	 */
 	public static void printClass(Class<?> cl) {
 		System.out.print(cl);
 		printTypes(cl.getTypeParameters(), "<", ", ", ">", true);
@@ -46,6 +51,11 @@ public class GenericReflectionTest {
 		System.out.println();
 	}
 
+	/**
+	 * Prints Method
+	 *
+	 * @param m
+	 */
 	public static void printMethod(Method m) {
 		String name = m.getName();
 		System.out.print(Modifier.toString(m.getModifiers()));
@@ -61,6 +71,15 @@ public class GenericReflectionTest {
 	}
 
 
+	/**
+	 * Prints Types
+	 *
+	 * @param types
+	 * @param pre
+	 * @param sep
+	 * @param suf
+	 * @param isDefinition
+	 */
 	public static void printTypes(Type[] types, String pre, String sep, String suf, boolean isDefinition) {
 		if (pre.equals(" extends ") && Arrays.equals(types, new Type[] { Object.class })) return;
 
@@ -75,6 +94,12 @@ public class GenericReflectionTest {
 		if (types.length > 0) System.out.print(suf);
 	}
 
+	/**
+	 * Prints Type
+	 *
+	 * @param type
+	 * @param isDefinition
+	 */
 	public static void printType(Type type, boolean isDefinition) {
 		if (type instanceof Class) {
 			Class<?> t = (Class<?>) type;
