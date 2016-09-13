@@ -37,6 +37,6 @@ class ArrayAlg {
 			}
 		}
 
-		return new Pair<T>(min, max);
+		return new Pair<>(min, max);
 	}
 }

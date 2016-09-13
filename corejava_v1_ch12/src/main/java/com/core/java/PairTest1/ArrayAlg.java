@@ -24,6 +24,6 @@ class ArrayAlg {
 			if (min.compareTo(a[i]) < 0) max = a[i];
 		}
 
-		return new Pair<String>(min, max);
+		return new Pair<>(min, max);
 	}
 }
