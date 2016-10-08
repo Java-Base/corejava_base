@@ -5,8 +5,9 @@ import java.lang.reflect.Array;
 /**
  * This program demonstrates the use of reflection for manipulating arrays.
  *
- * @auth Lian
- * @date 16/9/6
+ * @auth 	Lian
+ * @date 	16/9/6
+ * @since 	1.0
  */
 public class ArrayGrowTest {
 

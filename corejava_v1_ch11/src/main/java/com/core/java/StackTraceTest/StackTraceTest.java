@@ -5,8 +5,9 @@ import java.util.Scanner;
 /**
  * A program that displays a trace feature of a recursive method call.
  *
- * @auth Lian
- * @date 16/9/8
+ * @auth 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 public class StackTraceTest {
 
