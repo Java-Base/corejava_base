@@ -1,12 +1,8 @@
-package com.core.java.PairTest1;
+package com.core.java.CodeTest;
 
 /**
- * 泛型类(generic class)就是具有一个或多个类型变量的类。
- * 类定义中的类型变量可以指定方法的返回类型以及域和局部变量的类型。
- *
- * @auth 	Lian
- * @date 	16/9/8
- * @since	1.0
+ * @auth Lian
+ * @date 16/9/8
  */
 class Pair<T> {
 
@@ -38,4 +34,5 @@ class Pair<T> {
 	public void setSecond(T second) {
 		this.second = second;
 	}
+
 }

@@ -36,4 +36,5 @@ class Employee {
 		double raise = salary * byPercent / 100;
 		salary += raise;
 	}
+
 }
