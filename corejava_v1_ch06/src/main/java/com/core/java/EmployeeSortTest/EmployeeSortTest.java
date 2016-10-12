@@ -5,8 +5,9 @@ import java.util.Arrays;
 /**
  * This program demonstrates the use of the Comparable interface
  *
- * @auth Lian
- * @date 16/9/6
+ * @author 	Lian
+ * @date 	16/9/6
+ * @since 	1.0
  */
 public class EmployeeSortTest {
 

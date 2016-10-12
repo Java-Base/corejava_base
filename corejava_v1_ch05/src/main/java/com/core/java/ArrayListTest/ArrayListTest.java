@@ -5,8 +5,9 @@ import java.util.ArrayList;
 /**
  * This program demonstrates the ArrayList class.
  *
- * @auth Lian
- * @date 16/8/30
+ * @author 	Lian
+ * @date 	16/8/30
+ * @since 	1.0
  */
 public class ArrayListTest {
 

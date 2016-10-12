@@ -5,7 +5,7 @@ import java.lang.reflect.Array;
 /**
  * This program demonstrates the use of reflection for manipulating arrays.
  *
- * @auth 	Lian
+ * @author 	Lian
  * @date 	16/9/6
  * @since 	1.0
  */

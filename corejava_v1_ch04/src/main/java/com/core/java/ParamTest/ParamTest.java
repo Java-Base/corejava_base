@@ -3,8 +3,9 @@ package com.core.java.ParamTest;
 /**
  * This demonstrates parameter passing in Java
  *
- * @auth Lian
- * @date 16/8/29
+ * @author 	Lian
+ * @date 	16/8/29
+ * @since 	1.0
  */
 public class ParamTest {
 

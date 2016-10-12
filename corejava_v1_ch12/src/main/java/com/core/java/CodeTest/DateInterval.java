@@ -3,8 +3,11 @@ package com.core.java.CodeTest;
 import java.util.Date;
 
 /**
- * @auth Lian
- * @date 2016/9/22
+ * Date Interval
+ *
+ * @author 	Lian
+ * @date 	2016/9/22
+ * @since 	1.0
  */
 public class DateInterval extends Pair<Date> {
 

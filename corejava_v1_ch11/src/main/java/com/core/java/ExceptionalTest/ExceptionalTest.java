@@ -5,8 +5,11 @@ import java.util.EmptyStackException;
 import java.util.Stack;
 
 /**
- * @auth Lian
- * @date 16/9/8
+ * Exceptional Test
+ *
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 public class ExceptionalTest {
 

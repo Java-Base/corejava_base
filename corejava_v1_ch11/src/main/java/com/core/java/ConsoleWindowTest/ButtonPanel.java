@@ -8,8 +8,9 @@ import java.awt.event.ActionListener;
 /**
  * A panel with three buttons
  *
- * @auth Lian
- * @date 16/9/8
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 class ButtonPanel extends JPanel {
 

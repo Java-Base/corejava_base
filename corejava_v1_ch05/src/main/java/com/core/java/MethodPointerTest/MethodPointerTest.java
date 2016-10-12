@@ -6,8 +6,9 @@ import java.util.concurrent.ExecutionException;
 /**
  * This method shows how to invoke methods through reflection
  *
- * @auth Lian
- * @date 16/9/6
+ * @author 	Lian
+ * @date 	16/9/6
+ * @since 	1.0
  */
 public class MethodPointerTest {
 

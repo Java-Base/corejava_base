@@ -1,8 +1,11 @@
 package com.core.java.PairTest1;
 
 /**
- * @auth Lian
- * @date 16/9/8
+ * ArrayAlg
+ *
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 class ArrayAlg {
 

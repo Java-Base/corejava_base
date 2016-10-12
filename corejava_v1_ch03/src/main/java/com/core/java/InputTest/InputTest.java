@@ -5,8 +5,9 @@ import java.util.Scanner;
 /**
  * This program demonstrates console input.
  *
- * @author Lian
- * @time 2016年8月16日
+ * @author 	Lian
+ * @date 	2016年8月16日
+ * @since 	1.0
  */
 public class InputTest {
 

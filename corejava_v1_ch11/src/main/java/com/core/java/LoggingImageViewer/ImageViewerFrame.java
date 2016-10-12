@@ -10,8 +10,9 @@ import java.util.logging.Logger;
 /**
  * The frame that shows the image.
  *
- * @auth Lian
- * @date 16/9/8
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 class ImageViewerFrame extends JFrame {
 

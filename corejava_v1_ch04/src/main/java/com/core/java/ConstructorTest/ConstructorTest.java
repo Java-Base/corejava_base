@@ -3,8 +3,9 @@ package com.core.java.ConstructorTest;
 /**
  * This program demonstrates object construction
  *
- * @auth Lian
- * @date 16/8/29
+ * @author 	Lian
+ * @date 	16/8/29
+ * @since 	1.0
  */
 public class ConstructorTest {
 

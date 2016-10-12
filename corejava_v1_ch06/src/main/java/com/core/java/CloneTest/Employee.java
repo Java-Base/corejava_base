@@ -6,8 +6,9 @@ import java.util.GregorianCalendar;
 /**
  * Employee Class implements Cloneable interface
  *
- * @auth Lian
- * @date 16/9/6
+ * @author 	Lian
+ * @date 	16/9/6
+ * @since 	1.0
  */
 class Employee implements Cloneable {
 

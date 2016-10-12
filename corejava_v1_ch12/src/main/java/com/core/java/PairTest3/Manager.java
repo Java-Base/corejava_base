@@ -1,8 +1,11 @@
 package com.core.java.PairTest3;
 
 /**
- * @auth Lian
- * @date 16/9/12
+ * Manager
+ *
+ * @author 	Lian
+ * @date 	16/9/12
+ * @since 	1.0
  */
 class Manager extends Employee {
 

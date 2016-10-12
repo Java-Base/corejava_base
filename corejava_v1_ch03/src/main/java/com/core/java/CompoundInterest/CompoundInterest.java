@@ -3,8 +3,9 @@ package com.core.java.CompoundInterest;
 /**
  * This program shows how to store tabular data in a 2D array.
  *
- * @auth Lian
- * @date 16/8/22
+ * @author 	Lian
+ * @date 	16/8/22
+ * @since 	1.0
  */
 public class CompoundInterest {
 

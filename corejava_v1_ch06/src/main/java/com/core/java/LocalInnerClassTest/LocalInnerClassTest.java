@@ -5,8 +5,9 @@ import javax.swing.*;
 /**
  * This program demonstrates the use of local inner classes
  *
- * @auth Lian
- * @date 16/9/7
+ * @author 	Lian
+ * @date 	16/9/7
+ * @since 	1.0
  */
 public class LocalInnerClassTest {
 

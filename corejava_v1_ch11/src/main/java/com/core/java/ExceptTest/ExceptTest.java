@@ -4,8 +4,11 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * @auth Lian
- * @date 16/9/8
+ * Except Test
+ *
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 public class ExceptTest {
 

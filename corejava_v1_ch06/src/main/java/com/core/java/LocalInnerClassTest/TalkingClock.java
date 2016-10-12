@@ -9,8 +9,9 @@ import java.util.Date;
 /**
  * A clock that prints the time in regular intervals
  *
- * @auth Lian
- * @date 16/9/7
+ * @author 	Lian
+ * @date 	16/9/7
+ * @since 	1.0
  */
 public class TalkingClock {
 

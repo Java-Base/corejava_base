@@ -3,8 +3,9 @@ package com.core.java.StaticInnerClassTest;
 /**
  * This program demonstrates the uses of static inner classes
  *
- * @auth Lian
- * @date 16/9/7
+ * @author 	Lian
+ * @date 	16/9/7
+ * @since 	1.0
  */
 public class StaticInnerClassTest {
 

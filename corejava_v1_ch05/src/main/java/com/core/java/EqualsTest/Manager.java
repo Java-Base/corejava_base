@@ -3,8 +3,9 @@ package com.core.java.EqualsTest;
 /**
  * Manager Clas
  *
- * @auth Lian
- * @date 16/8/30
+ * @author 	Lian
+ * @date 	16/8/30
+ * @since 	1.0
  */
 class Manager extends Employee {
 

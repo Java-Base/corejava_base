@@ -5,8 +5,11 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 
 /**
- * @auth Lian
- * @date 2016/9/22
+ * Another way to complete the function
+ *
+ * @author 	Lian
+ * @date 	2016/9/22
+ * @since 	1.0
  */
 public class TestCalendar {
 

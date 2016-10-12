@@ -3,8 +3,9 @@ package com.core.java.StaticInnerClassTest;
 /**
  * ArrayAlg Class has a static inner class(called nested class)
  *
- * @auth Lian
- * @date 16/9/7
+ * @author 	Lian
+ * @date 	16/9/7
+ * @since 	1.0
  */
 class ArrayAlg {
 

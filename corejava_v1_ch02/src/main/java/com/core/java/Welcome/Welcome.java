@@ -4,8 +4,8 @@ package com.core.java.Welcome;
  * This program displays a greeting from the authors
  *
  * @author 	Lian
- * @time	2016年8月2日
- *
+ * @date	2016年8月2日
+ * @since 	1.0
  */
 public class Welcome {
 

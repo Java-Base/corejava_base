@@ -4,8 +4,11 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 
 /**
- * @auth Lian
- * @date 16/9/12
+ * PairTest2
+ *
+ * @author 	Lian
+ * @date 	16/9/12
+ * @since 	1.0
  */
 public class PairTest2 {
 

@@ -6,8 +6,9 @@ import java.util.Iterator;
 /**
  * A first-in, first-out bounded collection.
  *
- * @auth Lian
- * @date 16/9/13
+ * @author 	Lian
+ * @date 	16/9/13
+ * @since 	1.0
  */
 class CircularArrayQueue<E> extends AbstractQueue<E> {
 

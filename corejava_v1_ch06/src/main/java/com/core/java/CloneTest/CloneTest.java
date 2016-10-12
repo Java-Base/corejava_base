@@ -3,8 +3,9 @@ package com.core.java.CloneTest;
 /**
  * This program demonstrates cloning.
  *
- * @auth Lian
- * @date 16/9/6
+ * @author 	Lian
+ * @date 	16/9/6
+ * @since 	1.0
  */
 public class CloneTest {
 

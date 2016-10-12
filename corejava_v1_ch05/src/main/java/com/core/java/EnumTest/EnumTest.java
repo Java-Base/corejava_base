@@ -5,8 +5,9 @@ import java.util.Scanner;
 /**
  * This program demonstrates enumrated types
  *
- * @auth Lian
- * @date 16/9/5
+ * @author 	Lian
+ * @date 	16/9/5
+ * @since 	1.0
  */
 public class EnumTest {
 

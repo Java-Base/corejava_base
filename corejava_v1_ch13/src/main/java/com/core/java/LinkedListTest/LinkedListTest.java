@@ -3,8 +3,9 @@ package com.core.java.LinkedListTest;
 /**
  * This program demonstrates operations on linked list
  *
- * @auth Lian
- * @date 16/9/13
+ * @author 	Lian
+ * @date 	16/9/13
+ * @since 	1.0
  */
 public class LinkedListTest {
 

@@ -8,8 +8,9 @@ import java.util.Date;
 /**
  * TimePrinter class implements ActionListener
  *
- * @auth Lian
- * @date 16/9/6
+ * @author 	Lian
+ * @date 	16/9/6
+ * @since 	1.0
  */
 class TimePrinter implements ActionListener {
 

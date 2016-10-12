@@ -8,8 +8,9 @@ import java.util.Locale;
 /**
  * This program demonstrates the use of Calendar
  *
- * @auth Lian
- * @date 16/8/22
+ * @author 	Lian
+ * @date 	16/8/22
+ * @since 	1.0
  */
 public class CalendarTest {
 

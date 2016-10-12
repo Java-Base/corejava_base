@@ -6,8 +6,9 @@ import java.util.Scanner;
 /**
  * This program demonstrates array manipulation
  *
- * @auth Lian
- * @date 16/8/22
+ * @author 	Lian
+ * @date 	16/8/22
+ * @since 	1.0
  */
 public class LotteryDrawing {
 

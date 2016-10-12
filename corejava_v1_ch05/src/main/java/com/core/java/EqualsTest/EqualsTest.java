@@ -3,8 +3,9 @@ package com.core.java.EqualsTest;
 /**
  * This program demonstrates the equals method
  *
- * @auth Lian
- * @date 16/8/30
+ * @author 	Lian
+ * @date 	16/8/30
+ * @since 	1.0
  */
 public class EqualsTest {
 

@@ -7,8 +7,9 @@ import java.io.PrintStream;
 /**
  * A window that displays the bytes sent to System.out and System.err
  *
- * @auth Lian
- * @date 16/9/8
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 public class ConsoleWindow {
 

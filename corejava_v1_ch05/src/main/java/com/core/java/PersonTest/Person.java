@@ -1,10 +1,13 @@
 package com.core.java.PersonTest;
 
 /**
- * @auth Lian
- * @date 16/8/30
+ * Abstract Class Person
+ *
+ * @auth 	Lian
+ * @date 	16/8/30
+ * @since 	1.0
  */
-abstract  class Person {
+abstract class Person {
 
 	private String name;
 

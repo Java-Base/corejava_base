@@ -8,8 +8,9 @@ import java.util.Random;
 /**
  * This program demonstrates the use of proxies
  *
- * @auth Lian
- * @date 16/9/7
+ * @author 	Lian
+ * @date 	16/9/7
+ * @since 	1.0
  */
 public class ProxyTest {
 

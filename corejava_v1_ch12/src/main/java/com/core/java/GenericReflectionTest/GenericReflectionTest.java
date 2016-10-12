@@ -5,8 +5,11 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * @auth Lian
- * @date 16/9/13
+ * Generic Reflection Test
+ *
+ * @author 	Lian
+ * @date 	16/9/13
+ * @since 	1.0
  */
 public class GenericReflectionTest {
 

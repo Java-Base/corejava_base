@@ -1,8 +1,11 @@
 package com.core.java.PairTest1;
 
 /**
- * @auth Lian
- * @date 16/9/8
+ * PairTest1
+ *
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 public class PairTest1 {
 

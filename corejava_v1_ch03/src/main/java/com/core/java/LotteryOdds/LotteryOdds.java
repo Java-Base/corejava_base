@@ -5,8 +5,9 @@ import java.util.Scanner;
 /**
  * This program demonstrates a <code>for</code> loop.
  *
- * @auth Lian
- * @date 16/8/22
+ * @author 	Lian
+ * @date 	16/8/22
+ * @since 	1.0
  */
 public class LotteryOdds {
 

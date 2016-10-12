@@ -9,8 +9,9 @@ import java.util.Scanner;
 /**
  * This program uses reflection to print all features of a class
  *
- * @auth Lian
- * @date 16/9/5
+ * @author 	Lian
+ * @date 	16/9/5
+ * @since 	1.0
  */
 public class ReflectionTest {
 

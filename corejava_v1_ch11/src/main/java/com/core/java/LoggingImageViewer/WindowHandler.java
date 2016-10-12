@@ -8,8 +8,9 @@ import java.util.logging.StreamHandler;
 /**
  * A handler for displaying log records in a window.
  *
- * @auth Lian
- * @date 16/9/8
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 class WindowHandler extends StreamHandler {
 

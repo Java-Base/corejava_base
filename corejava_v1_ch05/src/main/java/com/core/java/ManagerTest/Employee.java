@@ -6,8 +6,9 @@ import java.util.GregorianCalendar;
 /**
  * Employee Class
  *
- * @auth Lian
- * @date 16/8/30
+ * @author 	Lian
+ * @date 	16/8/30
+ * @since 	1.0
  */
 class Employee {
 

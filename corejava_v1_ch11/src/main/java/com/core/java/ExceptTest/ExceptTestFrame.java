@@ -5,8 +5,9 @@ import javax.swing.*;
 /**
  * A frame with a panel for testing various exceptions
  *
- * @auth Lian
- * @date 16/9/8
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 class ExceptTestFrame extends JFrame {
 

@@ -10,8 +10,9 @@ import java.io.InputStream;
 /**
  * A panel with radio buttons for running code snippets and studying their exception behavior
  *
- * @auth Lian
- * @date 16/9/8
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 class ExceptTestPanel extends Box {
 

@@ -3,8 +3,9 @@ package com.core.java.EnumTest;
 /**
  * Enum Size
  *
- * @auth Lian
- * @date 16/9/5
+ * @author 	Lian
+ * @date 	16/9/5
+ * @since 	1.0
  */
 enum Size {
 

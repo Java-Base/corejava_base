@@ -7,8 +7,9 @@ import java.lang.reflect.Method;
  * An invocation handler that prints out the method name and parameters,
  * then invoke the original method
  *
- * @auth Lian
- * @date 16/9/7
+ * @author 	Lian
+ * @date 	16/9/7
+ * @since 	1.0
  */
 class TraceHandler implements InvocationHandler {
 

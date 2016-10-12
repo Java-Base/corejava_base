@@ -6,8 +6,9 @@ import static java.lang.System.*;
 /**
  * This program demonstrates the use of package
  *
- * @auth Lian
- * @date 16/8/29
+ * @author 	Lian
+ * @date 	16/8/29
+ * @since 	1.0
  */
 public class PackageTest {
 

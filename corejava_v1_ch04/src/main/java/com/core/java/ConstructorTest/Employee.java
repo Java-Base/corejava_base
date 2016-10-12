@@ -5,8 +5,9 @@ import java.util.Random;
 /**
  * Employee Class
  *
- * @auth Lian
- * @date 16/8/29
+ * @author 	Lian
+ * @date 	16/8/29
+ * @since 	1.0
  */
 class Employee {
 

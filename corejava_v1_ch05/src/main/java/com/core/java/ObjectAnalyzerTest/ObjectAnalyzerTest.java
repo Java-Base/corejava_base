@@ -5,8 +5,9 @@ import java.util.ArrayList;
 /**
  * This program uses reflection to spy on objects
  *
- * @auth Lian
- * @date 16/9/5
+ * @author 	Lian
+ * @date 	16/9/5
+ * @since 	1.0
  */
 public class ObjectAnalyzerTest {
 

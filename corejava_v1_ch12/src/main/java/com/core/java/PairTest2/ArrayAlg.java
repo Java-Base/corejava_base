@@ -7,8 +7,9 @@ package com.core.java.PairTest2;
  * 		泛型方法可以定义在普通类中, 也可以定义在泛型类中。
  * 		当调用一个泛型方法时, 在方法名前的尖括号中放入具体的类型
  *
- * @auth Lian
- * @date 16/9/8
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 class ArrayAlg {
 

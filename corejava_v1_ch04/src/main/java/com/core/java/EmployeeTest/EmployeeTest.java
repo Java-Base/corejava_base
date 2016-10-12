@@ -3,8 +3,9 @@ package com.core.java.EmployeeTest;
 /**
  * This program tests the Employee class.
  *
- * @auth Lian
- * @date 16/8/23
+ * @author 	Lian
+ * @date 	16/8/23
+ * @since 	1.0
  */
 public class EmployeeTest {
 

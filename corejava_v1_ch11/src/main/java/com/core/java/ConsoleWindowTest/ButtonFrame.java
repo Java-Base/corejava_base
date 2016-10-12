@@ -6,8 +6,9 @@ import javax.swing.*;
  * A frame with a button panel This code is identical to ButtonTest in chapter 8, except for the
  * logging in the actionPerformed method of the ColorAction class
  *
- * @auth Lian
- * @date 16/9/8
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 class ButtonFrame extends JFrame {
 

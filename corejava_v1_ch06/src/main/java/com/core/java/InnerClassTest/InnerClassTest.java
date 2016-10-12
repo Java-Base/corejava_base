@@ -3,8 +3,11 @@ package com.core.java.InnerClassTest;
 import javax.swing.*;
 
 /**
- * @auth Lian
- * @date 16/9/6
+ * Inner Class Test
+ *
+ * @author	Lian
+ * @date 	16/9/6
+ * @since 	1.0
  */
 public class InnerClassTest {
 

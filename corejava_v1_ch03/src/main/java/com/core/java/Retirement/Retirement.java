@@ -5,8 +5,9 @@ import java.util.Scanner;
 /**
  * This program demonstrates a <code>while</code> loop
  *
- * @auth Lian
- * @date 16/8/17
+ * @author 	Lian
+ * @date 	16/8/17
+ * @since 	1.0
  */
 public class Retirement {
 

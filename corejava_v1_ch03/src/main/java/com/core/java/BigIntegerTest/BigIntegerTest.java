@@ -6,8 +6,9 @@ import java.util.Scanner;
 /**
  * This program uses big numbers to compute the odds of winning the grand prize in a lottery.
  *
- * @author Lian
- * @time 2016年8月2日
+ * @author 	Lian
+ * @date 	2016年8月2日
+ * @since 	1.0
  */
 public class BigIntegerTest {
 

@@ -3,8 +3,9 @@ package com.core.java.PersonTest;
 /**
  * Student Class
  *
- * @auth Lian
- * @date 16/8/30
+ * @author 	Lian
+ * @date 	16/8/30
+ * @since 	1.0
  */
 class Student extends Person {
 

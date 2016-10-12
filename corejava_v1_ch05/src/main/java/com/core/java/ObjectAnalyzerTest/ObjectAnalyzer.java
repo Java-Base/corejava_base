@@ -9,8 +9,9 @@ import java.util.ArrayList;
 /**
  * Analyzer Class
  *
- * @auth Lian
- * @date 16/9/5
+ * @author 	Lian
+ * @date 	16/9/5
+ * @since 	1.0
  */
 class ObjectAnalyzer {
 

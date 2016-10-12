@@ -11,8 +11,9 @@ import java.util.logging.Logger;
 /**
  * A modification of the image viewer program that logs various events.
  *
- * @auth Lian
- * @date 16/9/8
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 public class LoggingImageViewer {
 

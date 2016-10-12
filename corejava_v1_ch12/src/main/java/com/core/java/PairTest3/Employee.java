@@ -4,8 +4,11 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 /**
- * @auth Lian
- * @date 16/9/12
+ * Employee
+ *
+ * @author 	Lian
+ * @date 	16/9/12
+ * @since 	1.0
  */
 class Employee {
 

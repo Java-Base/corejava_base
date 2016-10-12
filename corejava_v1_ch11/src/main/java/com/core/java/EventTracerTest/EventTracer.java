@@ -11,8 +11,9 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Proxy;
 
 /**
- * @auth Lian
- * @date 16/9/8
+ * @author 	Lian
+ * @date 	16/9/8
+ * @since 	1.0
  */
 public class EventTracer {
 
