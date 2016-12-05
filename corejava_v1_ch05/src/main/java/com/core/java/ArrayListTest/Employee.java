@@ -16,11 +16,11 @@ class Employee {
 	private double salary;
 	private Date hireDay;
 
-	public Employee(String n, double s, int year, int month, int day) {
-		name = n;
-		salary = s;
+	public Employee(String name, double salary, int year, int month, int day) {
+		this.name = name;
+		this.salary = salary;
 		GregorianCalendar calendar = new GregorianCalendar(year, month - 1, day);
-		hireDay = calendar.getTime();
+		this.hireDay = calendar.getTime();
 	}
 
 	public String getName() {

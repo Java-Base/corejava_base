@@ -40,6 +40,7 @@ public class LotteryDrawing {
 
 			// move the last element into the random loacation
 			numbers[r] = numbers[n - 1];
+			// reduce the length of array numbers
 			n--;
 		}
 
