@@ -19,7 +19,7 @@ public class LotteryDrawing {
 		System.out.print("How many numbers do you need to draw? ");
 		int k = in.nextInt();
 
-		System.out.print("What is the hightest number you can draw? ");
+		System.out.print("What is the highest number you can draw? ");
 		int n = in.nextInt();
 
 
