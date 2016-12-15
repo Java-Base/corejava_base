@@ -9,3 +9,4 @@
 * 依赖:dependence(use-a)
 * 聚合:aggregation(has-a)
 * 继承:inheritance(is-a)
+
