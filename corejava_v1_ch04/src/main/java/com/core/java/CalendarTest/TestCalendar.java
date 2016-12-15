@@ -1,4 +1,4 @@
-package com.core.java;
+package com.core.java.CalendarTest;
 
 import java.text.DateFormatSymbols;
 import java.util.Calendar;
