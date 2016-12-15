@@ -12,7 +12,7 @@ public class ParamTest {
 	public static void main(String[] args) {
 
 		/**
-		 * Test 1: Method can't modify numeric parameters
+		 * CustomCalendarTest 1: Method can't modify numeric parameters
 		 */
 		System.out.println("Testing tripleValue:");
 		double percent = 10;
@@ -21,7 +21,7 @@ public class ParamTest {
 		System.out.println("After: percent=" + percent);
 
 		/**
-		 * Test 2: Method can change the state of object parameters
+		 * CustomCalendarTest 2: Method can change the state of object parameters
 		 */
 		System.out.println("\nTesting tripleSalary:");
 		Employee harry = new Employee("Harry", 50000);
@@ -31,7 +31,7 @@ public class ParamTest {
 
 
 		/**
-		 * Test 3: Methods can't attach new objects to object parameters
+		 * CustomCalendarTest 3: Methods can't attach new objects to object parameters
 		 */
 		System.out.println("\nTesting swap:");
 		Employee a = new Employee("Alice", 70000);

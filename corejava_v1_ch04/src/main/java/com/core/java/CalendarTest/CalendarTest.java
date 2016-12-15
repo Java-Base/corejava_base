@@ -27,6 +27,7 @@ public class CalendarTest {
 		// set calendar to start date of month
 		calendar.set(Calendar.DAY_OF_MONTH, 1);
 
+
 		// get the week of the start date of month
 		int weekday = calendar.get(Calendar.DAY_OF_WEEK);
 
@@ -40,6 +41,7 @@ public class CalendarTest {
 			calendar.add(Calendar.DAY_OF_MONTH, -1);
 			weekday = calendar.get(Calendar.DAY_OF_WEEK);
 		}
+
 		// print weekday names
 		String[] weekdayNames = new DateFormatSymbols().getShortWeekdays();
 		do {
@@ -52,6 +54,7 @@ public class CalendarTest {
 		for (int i = 0; i < indent; i++) {
 			System.out.printf("%3s \t", " ");
 		}
+
 
 		calendar.set(Calendar.DAY_OF_MONTH, 1);
 		do {
