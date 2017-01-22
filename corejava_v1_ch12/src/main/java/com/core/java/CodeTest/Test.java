@@ -1,5 +1,6 @@
 package com.core.java.CodeTest;
 
+import java.util.ArrayList;
 import java.util.Date;
 
 /**
@@ -16,5 +17,6 @@ public class Test {
 		Pair<Date> pair = interval;
 		pair.setFirst(new Date());
 		pair.setSecond(new Date());
+
 	}
 }

@@ -24,6 +24,6 @@ public class StaticTest {
 		}
 
 		int n = Employee.getNextId(); // call static method
-		System.out.println("Next availabel id = " + n);
+		System.out.println("Next available id = " + n);
 	}
 }
